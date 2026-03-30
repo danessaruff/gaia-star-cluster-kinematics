@@ -75,21 +75,17 @@ This assumption is commonly used when estimating the dynamical properties of ste
 
 ## Visualizations
 
-### Sky Position (RA vs Dec)
+### Sky Position Cluster
 
-![Sky Plot](sky_plot.png)
+![Sky Plot](proper_motion_cluster.png)
 
-### Proper Motion Distribution
+### Parallax Distribution and Cluster Distance
 
-![Proper Motion](proper_motion.png)
+![Parallax Distribution](parallax_distribution_m4.png)
 
-### Cluster Member Selection
+### Projected Position and Velocity Vectors
 
-![Cluster Selection](cluster_selection.png)
-
-### Radial Distribution
-
-![Radial Distribution](radial_distribution.png)
+![Projected Position](projected_position_velocity_m4.png)
 
 ---
 
